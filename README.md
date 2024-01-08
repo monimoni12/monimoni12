@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" src="/images/EunseoLee.png">
+  <img width="460" src="/images/EunseoLeemac.png">
 </p>
 
 <p align="middle">
