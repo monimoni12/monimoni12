@@ -1,4 +1,4 @@
-###### *Please view this README on Darkmode.
+###### *Please view this README via Darkmode.
 
 <a href="https://velog.io/@monimoni12">
   <p align="center">
