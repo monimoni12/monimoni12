@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img width="2000"src="/images/footerforgithub.png">
+  <img src="/images/footerforgithub.png">
 </p>
