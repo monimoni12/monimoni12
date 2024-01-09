@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@monimoni12">
   <p align="center">
-    <img width="460" src="/assets/EunseoLeemac.png">
+    <img width="460" src="/assets/EunseoLeelogo4github.png">
   </p>
 </a>
 
