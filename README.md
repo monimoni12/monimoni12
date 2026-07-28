@@ -8,7 +8,7 @@
 
 <a href="http://blog.monimoni12.dev/">
   <p align="center">
-    <img width="400" src="/assets/BigAirPackageChristo.jpeg">
+    <img width="700" src="/assets/BigAirPackageChristo.jpeg">
   </p>
 </a>
 
